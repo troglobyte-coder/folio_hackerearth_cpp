@@ -38,8 +38,8 @@ int main()
     int64_t cases, num, rotate;
     cin >> cases; // Reading input from STDIN
 
-	  while (cases--)
-	  {
+    while (cases--)
+    {
         //
         // We start are cases by inputing the number of boxes
         // the array will have when we start are rotation
